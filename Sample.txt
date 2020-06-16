@@ -8,9 +8,20 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
-
-
 Venktesh
 Aparna
 Bhavanya
 Bhargav Ram --> yet to come in future
+=======
+git status 							
+git init 							
+git config --global user.name "Let's Kode It"			
+git config --global user.email letskodeit@gmail.com		
+git config user.name "Let's Kode It"				
+git config user.email letskodeit@gmail.com			
+git add								
+git commit -m ""						
+git log								
+Git diff <filename>						
+git remote add origin <repository link>				
+git push -u origin 
